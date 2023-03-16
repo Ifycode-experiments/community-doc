@@ -13,8 +13,13 @@ New to tech and looking for a place to put programming concepts learnt to use? N
 -->
 
 ## How and where to start?
+Welcome to Code Collabo Free and Open Source Software Community! Start by reading up these resources:
+- [Code Collabo FOSS Community](https://code-collabo.hashnode.dev/what-is-code-collabo-and-who-is-it-for)
+- [What does "Free and Open Source" mean?](https://code-collabo.hashnode.dev/what-does-free-and-open-source-mean)
 
+<!--
 Go through [contribution guidelines](https://code-collabo.gitbook.io/doc/collabo-guidelines/contributing) to get you started on how to go about contributing to Code Collabo. Find existing projects to contribute to under **collabo projects** in the sidebar menu of the [Gitbook documentation](https://code-collabo.gitbook.io/doc/). Interested contributors can reach out to [@Ifycode](https://github.com/Ifycode) by just commenting on the issue they are interested in working on.
+-->
 
 ## Meet our awesome contributors ✨
 
