@@ -13,7 +13,7 @@ New to tech and looking for a place to put programming concepts learnt to use? N
 -->
 
 ## How and where to start?
-Welcome to Code Collabo Free and Open Source Software Community! Start by reading up these resources:
+Start by reading up these resources to know more about Code Collabo Free and Open Source community, and open source:
 - [Code Collabo FOSS Community](https://code-collabo.hashnode.dev/what-is-code-collabo-and-who-is-it-for)
 - [What does "Free and Open Source" mean?](https://code-collabo.hashnode.dev/what-does-free-and-open-source-mean)
 
