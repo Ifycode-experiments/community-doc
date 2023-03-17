@@ -16,6 +16,7 @@ New to tech and looking for a place to put programming concepts learnt to use? N
 Start by reading up these resources to know more about Code Collabo Free and Open Source community, and open source:
 - [Code Collabo FOSS Community](https://code-collabo.hashnode.dev/what-is-code-collabo-and-who-is-it-for)
 - [What does "Free and Open Source" mean?](https://code-collabo.hashnode.dev/what-does-free-and-open-source-mean)
+- Learn to use [Git and github for collaboration](https://obiagba-mary.gitbook.io/git-and-github-training)
 
 {% hint style="info" %} Find the guidelines for contributing, and projects to contribute to using the sidebar menu. {% endhint %}
 
