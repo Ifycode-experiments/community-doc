@@ -1,2 +1,0 @@
-# collabo-guidelines
-
