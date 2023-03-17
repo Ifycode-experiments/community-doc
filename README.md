@@ -8,19 +8,10 @@
 
 This is the official documentation for the [Code Collabo community project](https://github.com/code-collabo). 
 
-<!--
-New to tech and looking for a place to put programming concepts learnt to use? New to and want to start contributing to open source? Looking for problem solving projects to work on alongside some other persons or interested in mentoring? **Code Collabo** Free and Open Source Community is packed with awesome collaboration projects to provide support and open source experience for tech talents regardless of their level of experience.
--->
-
 ## How and where to start?
-Welcome to Code Collabo Free and Open Source Software Community! Start by reading up these resources:
+Start by reading up these resources to know more about Code Collabo Free and Open Source community, and open source:
 - [Code Collabo FOSS Community](https://code-collabo.hashnode.dev/what-is-code-collabo-and-who-is-it-for)
 - [What does "Free and Open Source" mean?](https://code-collabo.hashnode.dev/what-does-free-and-open-source-mean)
+- Learn to use [Git and github for collaboration](https://obiagba-mary.gitbook.io/git-and-github-training)
 
-<!--
-Go through [contribution guidelines](https://code-collabo.gitbook.io/doc/collabo-guidelines/contributing) to get you started on how to go about contributing to Code Collabo. Find existing projects to contribute to under **collabo projects** in the sidebar menu of the [Gitbook documentation](https://code-collabo.gitbook.io/doc/). Interested contributors can reach out to [@Ifycode](https://github.com/Ifycode) by just commenting on the issue they are interested in working on.
--->
-
-## Meet our awesome contributors ✨
-
-Meet our [awesome contributors](https://code-collabo.gitbook.io/doc/meet-our-awesome-contributors/all-contributors) helping to develop or improve the Code Collabo community project.
+{% hint style="info" %} Find the guidelines for contributing, and projects to contribute to using the sidebar menu. {% endhint %}
