@@ -6,12 +6,16 @@
 
 ![Code Collabo header image](.gitbook/assets/code-collabo-header-img.png)
 
-This is the official documentation for the [Code Collabo community project](https://github.com/code-collabo). 
+This is the official documentation for the [Code Collabo community project](https://github.com/code-collabo).
 
 ## How and where to start?
-Start by reading up these resources to know more about Code Collabo Free and Open Source community, and open source:
-- [Code Collabo FOSS Community](https://code-collabo.hashnode.dev/what-is-code-collabo-and-who-is-it-for)
-- [What does "Free and Open Source" mean?](https://code-collabo.hashnode.dev/what-does-free-and-open-source-mean)
-- Learn to use [Git and github for collaboration](https://obiagba-mary.gitbook.io/git-and-github-training)
 
-{% hint style="info" %} Find the guidelines for contributing, and projects to contribute to using the sidebar menu. {% endhint %}
+Start by reading these resources to know more about Code Collabo Free and Open Source community and open source:
+
+* [Code Collabo FOSS Community](https://code-collabo.hashnode.dev/what-is-code-collabo-and-who-is-it-for)
+* [What does "Free and Open Source" mean?](https://code-collabo.hashnode.dev/what-does-free-and-open-source-mean)
+* Learn to use [Git and GitHub for collaboration](https://obiagba-mary.gitbook.io/git-and-github-training)
+
+{% hint style="info" %}
+Find the guidelines for contributing, and projects to contribute to using the sidebar menu.
+{% endhint %}
