@@ -5,3 +5,7 @@ Thanks to our awesome contributors who are helping to develop or improve the [Co
 * [Git & GitHub for collaboration course contributors](https://github.com/code-collabo/git-github-collabo-course#contributors-)
 * [Node mongo CLI & API templates contributors](https://github.com/code-collabo/node-mongo-cli#appreciation)
 * [Community doc contributors](../contributor.md)
+
+{% hint style="info" %}
+Reload any one page from this doc (whenever you come back to continue reading) so that newly added content can show up (if any new content has been added).
+{% endhint %}

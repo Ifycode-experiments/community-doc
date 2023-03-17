@@ -25,5 +25,7 @@ Add video (and maybe text)
 
 Add video (and maybe text)
 
-
+{% hint style="info" %}
+Reload any one page from this doc (whenever you come back to continue reading) so that newly added content can show up (if any new content has been added).
+{% endhint %}
 

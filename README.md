@@ -19,3 +19,7 @@ Start by reading these resources to know more about Code Collabo Free and Open S
 {% hint style="info" %}
 Find the guidelines for contributing, and projects to contribute to using the sidebar menu.
 {% endhint %}
+
+{% hint style="info" %}
+Reload any one page from this doc (whenever you come back to continue reading) so that newly added content can show up (if any new content has been added).
+{% endhint %}
