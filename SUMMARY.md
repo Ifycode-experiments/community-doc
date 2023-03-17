@@ -12,8 +12,6 @@
 
 ## collabo projects
 
-***
-
 * [Git & GitHub for collaboration course](https://obiagba-mary.gitbook.io/git-and-github-training)
 * [Node mongo CLI & API boilerplate templates](https://code-collabo.gitbook.io/node-mongo)
 * [Community blog](https://github.com/code-collabo/community-blog)
