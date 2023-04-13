@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Code Collabo](README.md)
+* [Join the collabo community gitter chat](https://matrix.to/#/#code-collabo-foss-community:gitter.im)
 
 ## code of conduct
 
@@ -12,12 +13,8 @@
 
 ## collabo projects
 
-* [Git & GitHub for collaboration course](https://obiagba-mary.gitbook.io/git-and-github-training)
-* [Node mongo CLI & API boilerplate templates](https://code-collabo.gitbook.io/node-mongo)
-* [Community blog](https://github.com/code-collabo/community-blog)
-* [Community doc](https://github.com/code-collabo/community-doc)
-* [Styles library](https://code-collabo.gitbook.io/styles-library)
+* [Collabo projects](https://github.com/code-collabo/.github#collabo-projects)
 
 ## collabo contributors
 
-* [All contributors ✨](collabo-contributors/all-contributors.md)
+* [Collabo contributors](https://github.com/code-collabo/.github#collabo-contributors)

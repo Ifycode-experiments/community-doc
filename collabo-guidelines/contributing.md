@@ -5,7 +5,7 @@ description: GUIDELINES AND WORKFLOW
 # Contribution guidelines
 
 {% hint style="info" %}
-Contributors can either fix issues in already existing projects or add/suggest a new project. Join the _**contribution support**_ channel on [Gitter](https://matrix.to/#/#code-collabo-foss-community:gitter.im) to interact with other contributors, in case you need help or have questions.
+Reload any one page from this doc (whenever you come back to continue reading) so that newly added content can show up (if any new content has been added).
 {% endhint %}
 
 ## General guidelines
@@ -24,8 +24,4 @@ Add video (and maybe text)
 ## Workflow: command line git version
 
 Add video (and maybe text)
-
-{% hint style="info" %}
-Reload any one page from this doc (whenever you come back to continue reading) so that newly added content can show up (if any new content has been added).
-{% endhint %}
 
