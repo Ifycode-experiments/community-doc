@@ -17,7 +17,7 @@ Start by reading these resources to know more about Code Collabo Free and Open S
 * Learn to use [Git and GitHub for collaboration](https://obiagba-mary.gitbook.io/git-and-github-training)
 
 {% hint style="info" %}
-Find the guidelines for contributing, and projects to contribute to using the sidebar menu.
+Find the link to the Code Collabo FOSS Community gitter channel, the guidelines for contributing, and projects to contribute to using the sidebar menu.
 {% endhint %}
 
 {% hint style="info" %}
