@@ -1,12 +1,8 @@
 ---
-description: GUIDELINES AND WORKFLOW
+description: COLLABO COMMUNITY GUIDELINES AND WORKFLOW
 ---
 
-# Contribution guidelines
-
-{% hint style="info" %}
-Reload any one page from this doc (whenever you come back to continue reading) so that newly added content can show up (if any new content has been added).
-{% endhint %}
+# Collabo community contribution guidelines
 
 ## General guidelines
 
@@ -17,11 +13,15 @@ Reload any one page from this doc (whenever you come back to continue reading) s
 * Pull requests should be linked to the issue it aims to fix.
 * Feel free to ask questions if you are not clear about something in the issue you are working on.
 
-## Workflow: GitHub UI version
+## Workflow
 
-Add video (and maybe text)
+{% tabs %}
+{% tab title="GitHub UI" %}
+Workflow: GitHub UI video and text content not yet available.
+{% endtab %}
 
-## Workflow: command line git version
-
-Add video (and maybe text)
+{% tab title="Command Line Git" %}
+Workflow: Command Line Git video and text content not yet available.
+{% endtab %}
+{% endtabs %}
 

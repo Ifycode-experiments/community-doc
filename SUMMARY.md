@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Code Collabo](README.md)
+* [Code Collabo documentation](README.md)
 * [Join the collabo community gitter chat](https://matrix.to/#/#code-collabo-foss-community:gitter.im)
 
 ## code of conduct
@@ -9,7 +9,7 @@
 
 ## collabo guidelines
 
-* [Contribution guidelines](collabo-guidelines/contributing.md)
+* [Collabo community contribution guidelines](collabo-guidelines/contributing.md)
 
 ## collabo projects
 
