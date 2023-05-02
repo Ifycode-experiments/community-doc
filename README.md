@@ -4,7 +4,7 @@ description: CODE COLLABO PROGRAM AND FOSS COMMUNITY DOCUMENTATION
 
 # Code Collabo documentation
 
-<figure><img src="https://user-images.githubusercontent.com/45185388/235588957-6381f92e-4f32-4225-a159-00ab445a9fb2.png" alt="Collabo Community banner"><figcaption><p>collabo-banner-short-variant-small-85%</p></figcaption></figure>
+![Collabo community banner](https://user-images.githubusercontent.com/45185388/235606230-86d50de9-c541-41f3-8101-7cfd5b44084e.png)
 
 Welcome to the Code Collabo Free and Open Source Software Community! 🙌 This is the official documentation for the [Code Collabo community project](https://github.com/code-collabo).
 
