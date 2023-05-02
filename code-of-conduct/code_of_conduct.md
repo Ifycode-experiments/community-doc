@@ -4,10 +4,6 @@ description: CONTRIBUTOR COVENANT CODE OF CONDUCT
 
 # Code of Conduct
 
-{% hint style="info" %}
-Reload any one page from this doc (whenever you come back to continue reading) so that newly added content can show up (if any new content has been added).
-{% endhint %}
-
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
