@@ -3,7 +3,8 @@ description: CODE COLLABO PROGRAM AND FOSS COMMUNITY DOCUMENTATION
 ---
 
 # Code Collabo documentation
-[![Collabo Contributors](https://img.shields.io/badge/Collabo%20contributors-21-orange)](https://github.com/code-collabo/.github#collabo-contributors) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/community-doc-v1.0.0/collabo-guidelines/contributing) [![License: AGPL 3.0](https://img.shields.io/badge/License-AGPL-blue.svg)](https://github.com/code-collabo/docs/blob/develop/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/code-collabo/docs?color=red)](https://github.com/code-collabo/docs/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/code-collabo/docs?color=goldenrod)](https://github.com/code-collabo/docs/pulls)
+
+[![Collabo Contributors](https://img.shields.io/badge/Collabo%20contributors-21-orange)](https://github.com/code-collabo/.github#collabo-contributors) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/community-doc/collabo-guidelines/contributing) [![License: AGPL 3.0](https://img.shields.io/badge/License-AGPL-blue.svg)](https://github.com/code-collabo/node-mongo-api-boilerplate-templates/blob/develop/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/code-collabo/docs?color=red)](https://github.com/code-collabo/docs/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/code-collabo/docs?color=goldenrod)](https://github.com/code-collabo/docs/pulls)
 
 ![Collabo banner image](https://user-images.githubusercontent.com/45185388/235613891-c1514c30-136b-4b1f-b9b4-260fd6ef7c26.png)
 
